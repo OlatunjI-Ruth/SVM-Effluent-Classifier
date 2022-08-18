@@ -8,13 +8,13 @@ Also, continuous monitoring and testing of treated wastewater could be cumbersom
 In addition, this project can help to know the usage of the effluent generated from the wastewater treatment plant, because the algorithm will be modelled such that it can classify the predicted effluent as either safe or unsafe for reuse or discharge
 
 # About the Dataset
-the dataset was collected from the Effluent Treatment Plant(ETP) of the Nigerian Bottling Company, Asijere plant. therefore, due to confidentiality, the dataset cannot be made public.
+The dataset was collected from the Effluent Treatment Plant(ETP) of the Nigerian Bottling Company, Asijere plant. therefore, due to confidentiality, the dataset cannot be made public.
 
 # Tools
 the tools used for this projects are:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Sklearn
+Pandas,
+Numpy,
+Matplotlib,
+Seaborn,
+Sklearn,
 Support Vector Classifier.
